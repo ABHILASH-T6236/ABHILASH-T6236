@@ -20,6 +20,8 @@
 ![Abhilash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ABHILASH-T6236&show_icons=true&theme=tokyonight)
 
 ---
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ABHILASH-T6236&theme=tokyonight)
+
 
 ## 📞 Contact Me
 
